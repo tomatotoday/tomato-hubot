@@ -6,6 +6,7 @@
   "description": "hubot for tomato.today",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-deploy": "^0.13.25",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
