@@ -1,0 +1,14 @@
+{
+  "api": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "tomatotoday/api",
+    "environments": ["staging", "production"]
+  },
+  "discussion": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "tomatotoday/discussion",
+    "environments": ["staging", "production"]
+  }
+}
